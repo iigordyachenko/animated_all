@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/animated" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bvh_create/AlphaPose" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bvh_create/MotionBERT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bvh_create/MotionBERT/video2bvh" vcs="Git" />
+  </component>
+</project>
